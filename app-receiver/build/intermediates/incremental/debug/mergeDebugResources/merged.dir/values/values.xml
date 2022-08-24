@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shubham BT Demo</string>
+    <string name="notification_service_content_line1">Shubham BT Demo running</string>
+    <string name="notification_service_content_line2">Click to stop service.</string>
+    <string name="notification_service_ticker">Shubham BT Demo: service running</string>
+    <string name="server_uuid" translatable="false">0a641678-6ad6-4faa-9909-d070dc27a3b1</string>
+</resources>

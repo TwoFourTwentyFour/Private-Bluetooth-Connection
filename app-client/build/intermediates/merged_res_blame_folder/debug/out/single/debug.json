@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "shubham.source.app-client-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "shubham.source.app-client-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "shubham.source.app-client-merged_res-5:/drawable_microphone_mute.png.flat",
+        "source": "shubham.source.app-client-main-7:/drawable/microphone_mute.png"
+    },
+    {
+        "merged": "shubham.source.app-client-merged_res-5:/drawable_phone_in_talk.png.flat",
+        "source": "shubham.source.app-client-main-7:/drawable/phone_in_talk.png"
+    },
+    {
+        "merged": "shubham.source.app-client-merged_res-5:/drawable_microphone_active.png.flat",
+        "source": "shubham.source.app-client-main-7:/drawable/microphone_active.png"
+    }
+]

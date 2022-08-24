@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "shubham.receiver.app-receiver-merged_res-5:/layout_service_notification.xml.flat",
+        "source": "shubham.receiver.app-receiver-main-7:/layout/service_notification.xml"
+    },
+    {
+        "merged": "shubham.receiver.app-receiver-merged_res-5:/drawable_phone_bluetooth_speaker.png.flat",
+        "source": "shubham.receiver.app-receiver-main-7:/drawable/phone_bluetooth_speaker.png"
+    }
+]

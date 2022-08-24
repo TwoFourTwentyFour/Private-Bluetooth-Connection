@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2nd_idea.iml" filepath="$PROJECT_DIR$/.idea/modules/2nd_idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.iml" filepath="$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-client/2nd_idea.app-client.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.iml" filepath="$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-receiver/2nd_idea.app-receiver.unitTest.iml" />
+    </modules>
+  </component>
+</project>

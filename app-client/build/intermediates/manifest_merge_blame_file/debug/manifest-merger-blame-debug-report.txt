@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="shubham.source"
+4    android:versionCode="1010210"
+5    android:versionName="001.01.02-10API" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="10"
+8-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:7:5-68
+11-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:7:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:8:5-74
+12-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:8:22-71
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:9:5-71
+13-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:9:22-68
+14
+15    <application
+15-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:11:5-27:19
+16        android:allowBackup="false"
+16-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:15:9-36
+17        android:debuggable="true"
+18        android:icon="@android:drawable/stat_sys_data_bluetooth"
+18-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:13:9-65
+19        android:label="@string/app_name"
+19-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:12:9-41
+20        android:largeHeap="false"
+20-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:14:9-34
+21        android:supportsRtl="false"
+21-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:16:9-36
+22        android:testOnly="true" >
+23        <activity
+23-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:18:9-25:20
+24            android:name="shubham.source.MainActivity"
+24-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:19:13-55
+25            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode" >
+25-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:20:13-122
+26            <intent-filter>
+26-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:21:13-24:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:22:17-69
+27-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:22:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:23:17-77
+29-->C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\AndroidManifest.xml:23:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

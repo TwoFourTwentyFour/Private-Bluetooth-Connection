@@ -1,0 +1,8 @@
+shubham.source.app-client-pngs-0 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\generated\res\pngs\debug
+shubham.source.app-client-resValues-1 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\generated\res\resValues\debug
+shubham.source.app-client-rs-2 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\generated\res\rs\debug
+shubham.source.app-client-mergeDebugResources-3 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+shubham.source.app-client-mergeDebugResources-4 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+shubham.source.app-client-merged_res-5 C:\Users\shubh\StudioProjects\2nd idea\app-client\build\intermediates\merged_res\debug
+shubham.source.app-client-debug-6 C:\Users\shubh\StudioProjects\2nd idea\app-client\src\debug\res
+shubham.source.app-client-main-7 C:\Users\shubh\StudioProjects\2nd idea\app-client\src\main\res

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "shubham.source",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1010210,
+      "versionName": "001.01.02-10API",
+      "outputFile": "app-client-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

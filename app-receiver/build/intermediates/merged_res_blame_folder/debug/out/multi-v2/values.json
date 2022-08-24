@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "shubham.receiver.app-receiver-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shubh\\StudioProjects\\2nd idea\\app-receiver\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,5,6,4,10",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "14,196,281,109,509",
+                        "endColumns": "50,84,83,86,95",
+                        "endOffsets": "62,278,362,193,602"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,195,281,370",
+                        "endColumns": "52,86,85,88,97",
+                        "endOffsets": "103,190,276,365,463"
+                    }
+                }
+            ]
+        }
+    ]
+}

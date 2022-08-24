@@ -1,0 +1,4 @@
+#Thu Jul 28 10:11:04 IST 2022
+base.0=C\:\\Users\\shubh\\StudioProjects\\2nd idea\\app-client\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
